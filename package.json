@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chien2002222/heroku/issues"
   },
-  "homepage": "https://github.com/chien2002222/heroku#readme"
+  "homepage": "https://github.com/chien2002222/heroku#readme",
+  "engines": {
+    "node": "16.x"
+  }
 }
